@@ -6,3 +6,8 @@
 //
 
 import Foundation
+
+let channelName: String = "com.meuapp.todo-list"
+let methodGetName: String = "getTodoList"
+let methodSetName: String = "setTodo"
+let methodDeleteName: String = "deleteTodo"
